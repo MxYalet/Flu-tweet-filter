@@ -1,1 +1,1 @@
-The project is a Java application that analyzes a small dataset of Twitter data to identify tweets mentioning the flu and determines the US states where these tweets originated. The primary goal is to use N-tier architecture principles to create a modular, scalable, and maintainable system, focusing on abstraction, functional independence, and best practices in software design.
+
